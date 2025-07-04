@@ -24,7 +24,7 @@
 
 ### Contributes
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=anandcharukesan&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=surenkutty&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 </div>
 
